@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"meta",
+				"meta_verbose_mode"
+			],
+			[
+				"EXIT",
+				"EXIT_FAILURE"
+			],
+			[
+				"child",
+				"childStatus"
+			],
+			[
+				"first",
+				"firstRun"
+			],
+			[
+				"DEBUG",
+				"DEBUG_LABEL"
+			],
+			[
+				"shell",
+				"shellPrompt"
+			],
+			[
+				"BLO",
+				"BLOCK_SIZE"
+			],
+			[
+				"BL",
+				"BLOCK_SIZE"
+			],
+			[
+				"glob",
+				"global_base"
+			],
+			[
+				"dump",
+				"dump_block"
+			],
+			[
+				"merge",
+				"merge_blocks"
+			],
+			[
+				"fist",
+				"firstBlock"
+			],
+			[
+				"align",
+				"align_to_8_bytes"
+			],
+			[
+				"large",
+				"large_struct"
+			],
+			[
+				"original",
+				"original_malloc"
+			],
+			[
+				"meta_",
+				"meta_name"
+			],
+			[
+				"test",
+				"test_revised"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"color-",
+				"color-gray-light"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"color-primary",
+				"color-primary-dark"
+			],
+			[
+				"border-bott",
+				"border-bottom-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background-",
+				"background-attachment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"make clean",
+				"Build With: Make - Clean"
+			],
+			[
+				"line",
+				"Line Endings Unify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Make - Clean"
+			],
+			[
+				"text pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/cyclone"
+	],
+	"file_history":
+	[
+		"/C/Riot Games/League of Legends/Config/PersistedSettings.json",
+		"/C/Users/colby/AppData/Local/Temp/scp02347/home/wok/multicraft/servers/townytesting/plugins/Lottery/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp30081/home/wok/multicraft/servers/townytesting/plugins/FamoustLottery.dis/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp17179/home/wok/multicraft/servers/townytesting/plugins/FamoustLottery/Lotterys.yml",
+		"/C/Users/colby/Desktop/NetworkConfig.xml",
+		"/C/Users/colby/AppData/Local/Temp/scp18360/home/wok/multicraft/servers/townytesting/plugins/FamoustLottery/messages.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp17267/home/wok/multicraft/servers/townytesting/plugins/FamoustLottery/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp06627/home/wok/multicraft/servers/townytesting/plugins/Lottery/ActiveTickets.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp37157/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp52575/home/wok/multicraft/servers/townytesting/plugins/ObsidianAuctions/language.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp43199/home/wok/multicraft/servers/townytesting/plugins/Banknotes/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp02046/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/ChatConfig.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp58036/home/wok/multicraft/servers/townytesting/plugins/Bounty/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp22243/home/wok/multicraft/servers/townytesting/plugins/Bounty/bounty.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp12829/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp11474/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/Channels.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07201/home/wok/multicraft/servers/townytesting/plugins/ChatControl/chat.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp02700/home/wok/multicraft/servers/townytesting/plugins/Essentials/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp24700/home/wok/multicraft/servers/townytesting/plugins/CraftBook/ic-config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp24573/home/wok/multicraft/servers/townytesting/plugins/CraftBook/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp24911/home/wok/multicraft/servers/townytesting/plugins/CraftBook/mechanisms.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp39509/home/wok/multicraft/servers/townytesting/commands.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp36729/home/wok/multicraft/servers/townytesting/plugins/StaffPlus/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp13201/home/wok/multicraft/multicraft.conf",
+		"/C/Users/colby/AppData/Local/Temp/scp28730/home/wok/multicraft/servers/townytesting/plugins/CraftBook/mechanisms.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp29434/home/wok/multicraft/servers/townytesting/plugins/CraftBook/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp25659/home/wok/multicraft/eula.txt",
+		"/C/Users/colby/AppData/Local/Temp/scp25316/home/wok/multicraft/multicraft.conf.dist",
+		"/C/Users/colby/AppData/Local/Temp/scp25830/home/wok/multicraft/multicraft.key",
+		"/C/Users/colby/AppData/Local/Temp/scp47958/home/wok/multicraft/servers/townytesting/plugins/Essentials/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp55609/home/wok/multicraft/servers/townytesting/plugins/Tablist/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp17465/home/wok/multicraft/servers/townytesting/plugins/DiscordSRV/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp53404/home/wok/multicraft/servers/townytesting/plugins/Essentials/upgrades-done.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07572/home/wok/multicraft/servers/creative/plugins/GroupManager/worlds/plotworld/groups.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp16987/home/wok/multicraft/servers/townytesting/plugins/DiscordSRV/channels.json",
+		"/C/Users/colby/AppData/Local/Temp/scp11044/home/wok/multicraft/servers/townytesting/plugins/CraftBook/mechanisms.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07878/home/wok/multicraft/servers/townytesting/plugins/ChatControl/handlers.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp47439/home/wok/multicraft/servers/townytesting/plugins/EssentialsGeoIP/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp15283/home/wok/multicraft/servers/townytesting/commands.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp01174/home/wok/multicraft/servers/townytesting/plugins/CraftBook/variables.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp11092/home/wok/multicraft/servers/townytesting/plugins/CraftBook/persistence.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp01424/home/wok/multicraft/servers/townytesting/plugins/CraftBook/ic-config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp59952/home/wok/multicraft/servers/townytesting/plugins/CraftBook/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp06813/home/wok/multicraft/servers/townytesting/whitelist.json",
+		"/C/Users/colby/AppData/Local/Temp/scp20070/home/wok/multicraft/servers/creative/plugins/GroupManager/worlds/arcania/users.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp20417/home/wok/multicraft/servers/creative/plugins/GroupManager/worlds/danglica/users.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp08542/home/wok/multicraft/servers/creative/plugins/GroupManager/globalgroups.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp05336/home/wok/multicraft/servers/creative/plugins/PlotMe/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp19874/home/wok/multicraft/servers/creative/plugins/GroupManager/ERROR.LOG",
+		"/C/Users/colby/AppData/Local/Temp/scp19898/home/wok/multicraft/servers/creative/plugins/GroupManager/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07519/home/wok/multicraft/servers/creative/plugins/GroupManager/worlds/danglica/groups.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07323/home/wok/multicraft/servers/creative/plugins/GroupManager/worlds/guestplotworld/users.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp05979/home/wok/multicraft/servers/creative/plugins/PlotMe/captions.yml",
+		"/C/Users/colby/Downloads/cratesss.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp58965/home/wok/multicraft/servers/townytesting/plugins/CrateReloaded/crate.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp55472/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp56318/home/wok/multicraft/servers/townytesting/plugins/CraftBook/mechanisms.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp50260/home/wok/multicraft/servers/townytesting/commands.yml",
+		"/C/Users/colby/Downloads/crate.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp10368/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp40633/home/wok/multicraft/servers/townytesting/plugins/PvPManager/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp59518/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp01833/home/wok/multicraft/servers/townytesting/plugins/StaffPlus/config.yml",
+		"/C/dev/wok-testing/database_users.txt",
+		"/C/Users/colby/AppData/Local/Temp/scp58224/home/wok/multicraft/servers/townytesting/plugins/MinePacks/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp03548/home/wok/multicraft/servers/townytesting/plugins/CrateReloaded/crate.yml",
+		"/C/dev/wok-testing/plugins/CrateReloaded/config.yml",
+		"/C/dev/wok-testing/plugins/CrateReloaded/storage.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp21987/home/wok/multicraft/servers/townytesting/plugins/StaffPlus/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp34323/home/wok/multicraft/servers/townytesting/plugins/CraftBook/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp10847/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp34860/home/wok/multicraft/servers/townytesting/plugins/CraftBook/mechanisms.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp54871/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/Channels.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp20906/home/wok/multicraft/servers/townytesting/plugins/mcMMO/advanced.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp20907/home/wok/multicraft/servers/townytesting/plugins/mcMMO/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp51509/home/wok/multicraft/servers/townytesting/plugins/CraftBook/cauldron-recipes.yml",
+		"/C/dev/wok-testing/plugins/CraftBook/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp06591/home/wok/multicraft/servers/townytesting/plugins/KillerMoney/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp51781/home/wok/multicraft/servers/townytesting/plugins/CraftBook/variables.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp34897/home/wok/multicraft/servers/townytesting/plugins/CraftBook/persistence.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp42354/home/wok/multicraft/servers/townytesting/plugins/SuperVanish/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp18019/home/wok/multicraft/servers/townytesting/commands.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp15076/home/wok/multicraft/servers/townytesting/plugins/Orebfuscator4/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp19707/home/wok/multicraft/servers/townytesting/plugins/Multiverse-Core/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp39841/home/wok/multicraft/servers/townytesting/plugins/WorldGuard/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp41473/home/wok/multicraft/servers/townytesting/plugins/ClearLag/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp41258/home/wok/multicraft/servers/townytesting/plugins/CraftBook/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp19039/home/wok/multicraft/servers/townytesting/plugins/Multiverse-Core/worlds.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp36851/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp37488/home/wok/multicraft/servers/townytesting/plugins/Essentials/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp37803/home/wok/multicraft/servers/townytesting/plugins/ServerSigns/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp36164/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/townyperms.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp30890/home/wok/multicraft/servers/townytesting/plugins/StaffPlus/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp32840/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp54902/home/wok/multicraft/servers/townytesting/plugins/ClearLag/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp30996/home/wok/multicraft/servers/townytesting/plugins/Orebfuscator4/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp50870/home/wok/multicraft/servers/townytesting/plugins/EnjinMinecraftPlugin/config.json",
+		"/C/Users/colby/AppData/Local/Temp/scp03127/home/wok/multicraft/servers/townytesting/plugins/StaffPlus/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07990/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp15721/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/Channels.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp04159/home/wok/multicraft/servers/townytesting/plugins/DiscordSRV/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp29973/home/wok/multicraft/servers/townytesting/plugins/LiteBans/messages.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp20708/home/wok/multicraft/servers/townytesting/plugins/ChatControl/settings.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp14591/home/wok/multicraft/servers/townytesting/plugins/DiscordSRV/colors.json",
+		"/C/Users/colby/AppData/Local/Temp/scp14099/home/wok/multicraft/servers/townytesting/plugins/DiscordSRV/linkedaccounts.json",
+		"/C/Users/colby/AppData/Local/Temp/scp04804/home/wok/multicraft/servers/townytesting/plugins/DiscordSRV/channels.json",
+		"/C/Users/colby/AppData/Local/Temp/scp11491/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp59203/home/wok/multicraft/servers/townytesting/plugins/AltsRevealer/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp56966/home/wok/multicraft/servers/townytesting/plugins/PvPManager/messages.properties",
+		"/C/Users/colby/AppData/Local/Temp/scp47100/home/wok/multicraft/servers/townytesting/plugins/PvPManager/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp22919/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp35378/home/wok/multicraft/servers/townytesting/plugins/Jobs/generalConfig.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp56399/home/wok/multicraft/servers/townytesting/plugins/ChatControl/rules/commands.txt",
+		"/C/Users/colby/AppData/Local/Temp/scp55967/home/wok/multicraft/servers/townytesting/plugins/ChatControl/settings.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp56340/home/wok/multicraft/servers/townytesting/plugins/ChatControl/messages.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp22404/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp15181/home/wok/multicraft/servers/townytesting/plugins/ClearLag/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp39505/home/wok/multicraft/servers/townytesting/plugins/FastCraftPlus/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp42075/home/wok/multicraft/servers/townytesting/commands.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp33733/home/wok/multicraft/servers/townytesting/plugins/Disenchant/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp02361/home/wok/multicraft/servers/townytesting/plugins/PvPManager/users.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp39935/home/wok/multicraft/servers/townytesting/plugins/FastCraftPlus/recipes.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp28978/home/wok/multicraft/servers/townytesting/plugins/PermissionsEx/permissions.yml",
+		"/C/dev/wok-testing/plugins/Essentials/worth.yml",
+		"/C/dev/wok-testing/plugins/Essentials/items.csv",
+		"/C/Users/colby/AppData/Local/Temp/scp40684/home/wok/multicraft/servers/townytesting/plugins/AltsRevealer/config.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp41431/home/wok/multicraft/servers/townytesting/plugins/AltsRevealer/lang.yml",
+		"/C/Users/colby/AppData/Local/Temp/scp07096/home/wok/multicraft/servers/townytesting/plugins/Towny/settings/config.yml"
+	],
+	"find":
+	{
+		"height": 78.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"<project>plugins\\CraftBook",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Champion",
+			"Famoust",
+			"sv.",
+			"&4{bounty}",
+			"BOUNTY",
+			"bounty",
+			"developer",
+			"dev",
+			"mysql",
+			"legend",
+			"list",
+			"console",
+			"colbin8r",
+			"plotme",
+			"gate",
+			"staff.mode",
+			"staff.",
+			"pokemo",
+			"essentials.nick",
+			"nick",
+			"staff.mode",
+			"use",
+			"member",
+			"staff.",
+			"staff.use",
+			"staff",
+			"tree",
+			"color",
+			"circuit",
+			"enable",
+			"serversigns",
+			"pig",
+			"portal",
+			"pig",
+			"po",
+			"sign",
+			"autosmelt",
+			"tag",
+			"g",
+			"[g",
+			"g",
+			"[g]",
+			"ticket",
+			"build",
+			"builder",
+			"advertise",
+			"link",
+			"url",
+			"true",
+			"Databse",
+			"holograms",
+			"black",
+			"white",
+			"flatfile",
+			"altsrevealer",
+			"whobannedme",
+			"spawn",
+			"8123",
+			"dynmap",
+			"ip",
+			"update",
+			"person",
+			"staff.freeze",
+			"blacklist",
+			"blacklsit",
+			"ruin",
+			"ruin!",
+			"staff.",
+			"reload",
+			"essentials.*",
+			"sudo.ex",
+			"TeamSpea",
+			"TeamSpcik",
+			"towny.",
+			"modify_chat",
+			"name\":",
+			"admin",
+			"bypass",
+			"95",
+			"38",
+			"ticket",
+			"notes",
+			"Trusted",
+			"6Trusted",
+			"nick",
+			"sudo",
+			"sudo.exempt",
+			"sudo",
+			"nick.others",
+			"1486667141",
+			"staff",
+			"false",
+			"switch",
+			"ally",
+			"allies",
+			"upkeep",
+			"balance",
+			"sv",
+			"supervanish",
+			"vanish",
+			"essentials.*",
+			"essentials.tp",
+			"tp",
+			"towny.admin",
+			"world",
+			"towny",
+			"towny.wild",
+			"wilderness",
+			"world",
+			"permission",
+			"op",
+			"ip",
+			"port",
+			"god",
+			"link",
+			"delay",
+			"leave",
+			"access",
+			"access to this",
+			"home",
+			"mute",
+			"essentials.warps",
+			"warp",
+			"nether",
+			"chat",
+			"admin",
+			"mod",
+			"mod++"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"original_calloc",
+			"original_malloc",
+			"slider",
+			"Slider",
+			"",
+			"'",
+			"\"",
+			"    ",
+			"  ",
+			"\"",
+			"  ",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "cyclone.sublime-project",
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "inline-",
+		"selected_items":
+		[
+			[
+				"inline-",
+				"list-inline-responsive"
+			]
+		],
+		"width": 1214.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
